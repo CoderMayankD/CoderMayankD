@@ -1,3 +1,5 @@
+![image](https://github.com/CoderMayankD/CoderMayankD/assets/110977279/facdbc2a-9675-4bfd-b957-61eaf587b9eb)
+
 Hello There,
 It's Mayank Dwivedi here,
 Skilled in Machine Learning, Data Science & Python, undergrad in Pharmaceutical Science studied biostatistics & mathematics as well. A gifted storyteller for high-quality Data Science reports narration.
