@@ -1,5 +1,4 @@
-![image](https://github.com/CoderMayankD/CoderMayankD/assets/110977279/facdbc2a-9675-4bfd-b957-61eaf587b9eb)
-
+![linedin BAnner](https://github.com/CoderMayankD/CoderMayankD/assets/110977279/6a67b20d-a62f-4790-a14a-e85c12b8b1fd)
 Hello There,
 It's Mayank Dwivedi here,
 Skilled in Machine Learning, Data Science & Python, undergrad in Pharmaceutical Science studied biostatistics & mathematics as well. A gifted storyteller for high-quality Data Science reports narration.
